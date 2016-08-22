@@ -1,0 +1,13 @@
+/* Escribe tu css aqui */
+.box{
+	height: 100px;
+	width: 200px;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+.yellow{
+	background-color:#FFDF07;
+}
+.pink{
+	background-color: #D40C0C;
+}
